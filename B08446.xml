@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Behaviour, confession, and execution of the twelve prisoners that suffered on Wednesday, the 22nd of Jan. 1678/9. viz. Robert Freeman, [brace] drawn and hang'd neer Little-Britain for murdering his late master there.  At Tyburn, George Brown, John Butler, Richard Mills, Christ. Bruncker, George Kenian, [brace] for a burglary and felony in Hatton-Garden, taking away 380 ounces of plate, besides rings and money, under pretence of searching for Papists.  William Brain, [brace] for stealing a horse, having been burnt in the hand formerly.  Timothy Smith and Margaret Wells, [brace] for a burglary and felony in St. Giles.  William Atkinson and William Tiney, [brace] for a burglary and felony in White-Chappel.  Francis Jones, [brace] for a felony and burglary.  Gving a true account of their deportment in prison after sentence, and last words, as far as material, at execution / attested by Mr. Ordinary.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678-1679?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08446</idno>
+            <idno type="STC">Wing B1707</idno>
+            <idno type="STC">ESTC R234484</idno>
+            <idno type="EEBO-CITATION">64550944</idno>
+            <idno type="OCLC">ocm 64550944</idno>
+            <idno type="VID">184356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184356)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2859:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Behaviour, confession, and execution of the twelve prisoners that suffered on Wednesday, the 22nd of Jan. 1678/9. viz. Robert Freeman, [brace] drawn and hang'd neer Little-Britain for murdering his late master there.  At Tyburn, George Brown, John Butler, Richard Mills, Christ. Bruncker, George Kenian, [brace] for a burglary and felony in Hatton-Garden, taking away 380 ounces of plate, besides rings and money, under pretence of searching for Papists.  William Brain, [brace] for stealing a horse, having been burnt in the hand formerly.  Timothy Smith and Margaret Wells, [brace] for a burglary and felony in St. Giles.  William Atkinson and William Tiney, [brace] for a burglary and felony in White-Chappel.  Francis Jones, [brace] for a felony and burglary.  Gving a true account of their deportment in prison after sentence, and last words, as far as material, at execution / attested by Mr. Ordinary.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C.L.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1678/9.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freeman, Robert, d. 1679.</term>
+               <term>Prisoners --  England --  Early works to 1800.</term>
+               <term>Crime and criminals --  England --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184356:1"/>
+            <pb facs="tcp:184356:1"/>
+            <p>The BEHAVIOUR, CONFESSION, AND EXECUTION OF The Twelve PRISIONERS That Suffer'd on <hi>Wedneſday</hi> the 22 of <hi>Jan.</hi> 1678/9. VIZ.
+<list>
+                  <item>
+                     <hi>Robert Freeman,</hi> Drawn and Hang'd neer <hi>Little Britain,</hi> for Murdering his late Maſter there.</item>
+                  <item>
+                     <list>
+                        <head>At <hi>TYB<g ref="char:V">Ʋ</g>RN,</hi>
+                        </head>
+                        <item>
+                           <list>
+                              <item>
+                                 <hi>George Brown,</hi>
+                              </item>
+                              <item>
+                                 <hi>John Butler,</hi>
+                              </item>
+                              <item>
+                                 <hi>Richard Mills,</hi>
+                              </item>
+                              <item>
+                                 <hi>Chriſto Bruncker,</hi>
+                              </item>
+                              <item>
+                                 <hi>George Kenian,</hi>
+                              </item>
+                           </list> For a Burglary and Felony in <hi>Hatton-garden,</hi> taking away 380 ounces of Plate, beſides Rings and Money, under pre<g ref="char:EOLhyphen"/>rence of ſearching for <hi>Papiſts.</hi>
+                        </item>
+                        <item>
+                           <hi>William Brain,</hi> For ſtealing an Horſe, having been burnt in the hand formerly.</item>
+                        <item>
+                           <hi>Tim. Smith.</hi> and <hi>Margaret Wells,</hi> For a Burglary and Felony in St. <hi>Gileſes.</hi>
+                        </item>
+                        <item>
+                           <hi>William Atkinſon,</hi> and <hi>William Tiney,</hi> For a Burglary and Felony in <hi>Whitechappel.</hi>
+                        </item>
+                        <item>
+                           <hi>Francis Jones,</hi> For a Felony and Burglary.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Giving a true Account of their Deportment in Priſon aſter Sentence, and laſt Words, as far as material, at Execution: Atteſted by Mr. Ordinary.</p>
+            <p>LICENSED, Printed for <hi>C. L.</hi> 1678/9.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_confessions_and_executions">
+            <pb facs="tcp:184356:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:184356:2"/>
+            <head>THE CONFESSION and EXECUTION OF The Twelve PRISONERS That Suffr'd on <hi>Wedneſday</hi> the 22th of <hi>January,</hi> 1678/9.</head>
+            <p>
+               <hi>AS this ſheet is made publick as a Sea-mark to all that read or bear it, that they may avoid thoſe deſperate Rocks of ſin, on which theſe unhappy perſons lamentably ſhipwrackt: So particular circumſpection has been uſed, that nothing but Truth may be herein related, ſo as neither to abuſe the Dead, or miſ-inform the Living.</hi>
+            </p>
+            <p>At the laſt Seſſions, there were in all Seventeen perſons, <hi>viz.</hi> Fifteen Men, and Two Women, that received Sentence of Death: but Five of them obtained (at leaſt for the preſent) His Majeſties Gracious Pardon; the other Twelve, this 22. of <hi>January,</hi> were brought to Execution.</p>
+            <p>The firſt was one <hi>Robert Freeman,</hi> and Apprentice to one Mr. <hi>Bailee,</hi> a Smith in <hi>Little Britain,</hi> for Murdring whom, on the
+<pb n="4" facs="tcp:184356:3"/>12th. inſtant, he was not Condemned, and came to ſuffer; which was ordered to be in <hi>Little Britain,</hi> not very far from the place where the Fact was commited. 'Tis ſtrange and ſad to conſider, that not only at his Tryal, but afterwards, he perſiſted in aſſert<g ref="char:EOLhyphen"/>ing his Innocence, not withſtanding all the Arguments and Im<g ref="char:EOLhyphen"/>portunities Mr. Ordinary or other Miniſters could uſe, who took extraordinary pains in that behalf. Yet confeſſed the ſum of all that was Evidenc'd againſt him, as that he ſpake thoſe words—<hi>O do no not ſpeak of that Gun,</hi> or words to that effect; that there might be Blood on the Gun, <hi>&amp;c.</hi> but avrr'd, that the door when he came down in the Morning, was not Lockt, but only Larcht, and the Key on the inſide. He diſcourſed very under<g ref="char:EOLhyphen"/>ſtandingly, and made ſolemn Appeals of his Ignorance, how, or by what means he came to his end. But the Circumſtances were ſo home and undeniable, that even Chrity it ſelf could not credit his Aſſeverations.</p>
+            <p>Mr. Ordinary on the Lords day took great pains to a waken them to a through Conviction of their ſins, from two remarka<g ref="char:EOLhyphen"/>ble and moſt ſuitable Scriptures, <hi>viz.</hi> in the forenoon, <hi>Rom.</hi> 3.19.—<hi>For we know that what the Law ſaith, it ſaith to them that are under the Law, that every mouth may be ſtopt, and all the World become guilty before God.</hi> In the afternoon, from <hi>Pſal.</hi> 25. 11. <hi>For thy Name ſake, O Lord! pardon my iniquity, for it is great.</hi> And after the Evening Sermon, inquired what impreſſions of Gods Spirit they found on their hearts from his Miniſterial La<g ref="char:EOLhyphen"/>bours that day; to which they anſwered, <hi>That they hoped the Lord would make it effectual to them.</hi>
+            </p>
+            <p>On the Munday likewiſe, Mr. Ordinary viſited them, and on the Tueſday they being called together into the great Hall, he and two other Miniſters came to exhort and pray with them, in or<g ref="char:EOLhyphen"/>der to fit and prepare them for their great and dreadful change. At firſt, many of them appeared very earneſt to have the Sacra<g ref="char:EOLhyphen"/>ment of the Lords Supper Adminiſtred to them: whereupon, Mr.
+<pb n="5" facs="tcp:184356:3"/>Ordinary, and another able Miniſter, opening the nature of that Ordinance, their unpreparedneſs, ſcandalouſneſs, <hi>&amp;c.</hi> uſed moſt effectual Arguments why it was neither neceſſary or convenient for them, under their circumſtances; yet withal, declaring their tenderneſs in no wiſe to debar them of any thing that might be neceſſary or expedient for their Salvation: ſo that after above half an hours pains, the Priſoners in general declared, that they were ſatisfied, and did not deſire i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. After ſatisfaction given in that particular, a very worthy Miniſter gave them ſerious advice for their Souls Eternal Happineſs, and prayed very earneſtly for them; which being performed, Mr. ordinary, (as his uſual manner is) did earneſtly deſire of them, to conſider of the great concerns of their Everlaſting Condition; in order whereunto, he required a particular account from every one of them, what hope they had, (after all Counſels and Prayers) of their ſuture happy eſtate: whereunto every one gave a particulr account thereof, moſt of them confeſſing and bewailing their precedent Ill courſe of life, which might provoke the Lord to leave them to themſelves, to fall into thoſe Crimes for which they were juſtly Condemned: Some in particular confeſſing their Profanation of the Lords day, Diſobedience to Parents, Drunkenneſs, mixing with bid Com<g ref="char:EOLhyphen"/>pany; the ſin of Swearing, and other Vices of the Tongue. One acknowledged, that he had for two years laſt paſt; prayed earneſtly to the Lord, to be preſerved from the Temprations of his looſe Companions; but not ſetting a ſufficient watch over his own heart, he was not fortified againſt the aforeſaid Temptations. A<g ref="char:EOLhyphen"/>nother declared, that being in great wants, and having Overtures made of ſupplying him by invading the Proprieties of other men, he was over-perſwaded to joyn with them in ſuch an Attempt. Mr. Ordinary, after all theſe Confeſſions, earneſtly preſſed them to ſearch into their hearts, which were naturally ſo deceitful, that they might not preſume upon a falſe Faith and Repentance; and then another Miniſter concluded for that time with Prayer.</p>
+            <pb n="6" facs="tcp:184356:4"/>
+            <p> On Wedneſday morning about eight a clock, <hi>RoBert Freeman</hi> was drawn on a Sledge (as is uſual in caſes of Petty Treaſon) to <hi>Little Britain,</hi> where juſt by the Grate was a Gibbet erected: He paſſed with a ſolid compoſed countenance, Reading all the way; and being brought thither, perſiſted in denying the Fact, with ſeveral ſolemn expreſſions, too tedious to be here related: he repeated the Lords Prayer with much appearance of zeal, as likewiſe the Creed, declaring it to be the Articles of his Souls belief. Mr. Ordinary prayed with Him very affectionately, and alſo he prayed himſelf in good words: he deſired all young Men to beware of Ill Company, and private ſins, leſt God ſhould give them up to the like diſaſtrous end: he expreſſed largely the love he had to his Maſter, and that he was not privy to, or con<g ref="char:EOLhyphen"/>ſcious of any others that might be concerned in his Murther; but that for his own part, he freely forgave all the World, what ever thoughts it might have of him when he was dead; for he truſted he had made his peace with God: and ſo was Executed, moſt people with ſorrow admiring at, and pitying his obſtinacy; for ſo we cannot but call his denyal, after ſuch convincing Evidence. Nor want there Examples heretofore of the like reſoluteneſs under the greateſt Guilt, in Malefactors that out of hopes of Pardon at laſt, or vain-glory to dye pittied, have ſtifled their Conſcie<g ref="char:EOLhyphen"/>ces, and died with a denial of the Facts, which even before they confeſſed to Mr. Ordinary. But we dare not cenſure in ſo ab<g ref="char:EOLhyphen"/>ſtruſe a matter; himſelf-could not deny, but the Witneſſes, Court, and Jury, had proceeded fairly: for Men can but act as things appear; therefore we leave him to the judgment of that moſt juſt and all-ſeeing God, who righteouſly judgeth all the Earth.</p>
+            <p>The ſame forenoon, in four Carts were the other Eleven con<g ref="char:EOLhyphen"/>veyed to <hi>Tyburn,</hi> who when they were all tyed up to the Beam, declared to Mr. Ordinary, and another Miniſter, thoſe particu<g ref="char:EOLhyphen"/>lar ſins, which they did ſhame themſelves for, as the juſt pro<g ref="char:EOLhyphen"/>vocation of God, why he ſuffered them to fall into thoſe foul Crimes, for which they now dyed.</p>
+            <pb n="7" facs="tcp:184356:4"/>
+            <p> One of the five for the Burglary in <hi>Hatton Garden,</hi> delive<g ref="char:EOLhyphen"/>red a paper of his Confeſſion, under his own hand, which he deſired might be publiſhed, as ſome evidence of his ſorrow and Repentance to the World, the words of which are as fol<g ref="char:EOLhyphen"/>lows.</p>
+            <p>
+               <hi>The firſt eminent ſin which I can remember, was the Breach of the Sabbath; then I proceeded to keep Com<g ref="char:EOLhyphen"/>pany, where I learned to Curſe and Swear, and Pro<g ref="char:EOLhyphen"/>phane Gods Holy Name; Lying and Adultery, Drun<g ref="char:EOLhyphen"/>kenneſs, and Diſobedience to my Mother, who ſought by good Counſel to reclaim me; which is the juſt canſe my days are ſhortned in this World. I have been guil<g ref="char:EOLhyphen"/>ty of a great many Robberies on the High-way, and others beſides this I am ſo juſtly Condemned for.</hi>
+            </p>
+            <p>Another of the Five confeſſed, that he was guilty of all man<g ref="char:EOLhyphen"/>ner of ſin, (that of actual Murder and Treaſon excepted) and was much humbled for the ſame, eſpecially for his execrable Oaths and Curſes, which had been the cuſtomary Parentheſis of his diſcourſes.</p>
+            <p>They all acknowledged, that the hand of the Lord had righ<g ref="char:EOLhyphen"/>teouſly brought their Iniquities to light, and themſelves to ſhame; they had deſerved to be eternally rejected, for ſeveral other no<g ref="char:EOLhyphen"/>torious unknown Impieties, but they hoped for the pardon of them, by the Merits of Chriſt, upon their Repentance, which is in charity apprehended to have been ſincere: they all prayed for themſelves, and ſome very pathetically, and beyond expectation. They deſired Mr. Ordinary in their words, which would not be heard ſo well in their own pronunciation, by reaſon of the Mul<g ref="char:EOLhyphen"/>titude of Spectatours, that he would warn all preſent, by their calamitous end, to take heed of all fin.</p>
+            <pb n="8" facs="tcp:184356:5"/>
+            <p> The Woman in the Morning, on ſome temptation, diſown'd that ſhe was guilty of the Burglary for which ſhe ſuffered; but at the place of Execution freely Confeſſed it, and deſired pardon of God for that Lye in particular.</p>
+            <p>It was a ſad and moſt affecting Spectacle, to ſee ſo many per<g ref="char:EOLhyphen"/>ſons at once, haſtning themſelves to an ignominious Death, by the Impieties of their Lives: to behold ſuch a fight, one would think, might awaken all that ſaw it, to fly from ſuch wicked Practiſes, to leave off their debauched Converſation and bad Com<g ref="char:EOLhyphen"/>pany, and ſeriouſly imploring Mercy and forgiveneſs for paſt Iniquities, ſtrenuouſly indeavour to redeem the time for the future, and lead their Lives in Sobriety and Godlineſs; which God of his infinite goodneſs grant.</p>
+         </div>
+         <div type="statement_of_authenticity">
+            <p>
+               <hi>I do Atteſt the Particulars of this Narrative to be true.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Sam. Smith,</hi> Ordinary of <hi>Newgate.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:184356:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
